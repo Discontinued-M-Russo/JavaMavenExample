@@ -3,7 +3,7 @@ package com.mr.core.example;
 import org.apache.log4j.Logger;
 
 /**
- * Hello world!
+ * Simple Maven example
  *
  */
 public class Example

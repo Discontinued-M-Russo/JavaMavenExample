@@ -1,7 +1,9 @@
 package com.mr.core.example;
 
 /**
- * Created by 105051313 on 3/19/18.
+ * Implementation of IShape interface for a rectangle
+ *
+ *  Created by 105051313 on 3/19/18.
  */
 public class Rectangle
     implements IShape
